@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RPS CS408Lab1B</string>
+    <string name="intro">Welcome to Rock Paper Scissors! \nPlease Choose Your Weapon:</string>
+    <string name="rock_button">ROCK</string>
+    <string name="paper_button">PAPER</string>
+    <string name="scissors_button">SCISSORS</string>
+    <string name="result">Player:  Computer: </string>
+    <string name= "tie">The game is a draw!</string>
+    <string name = "R_P">"Computer Wins! Paper COVERS Rock"</string>
+    <string name = "R_S">"Player Wins! Rock CRUSHES Scissors"</string>
+    <string name = "P_R">"Player Wins! Paper COVERS Rock"</string>
+    <string name = "P_S">"Computer Wins! Scissors CUTS Paper"</string>
+    <string name = "S_R">"Computer Wins! Rock CRUSHES Scissors"</string>
+    <string name = "S_P">"Player Wins! Scissors CUTS Paper"</string>
+    <string name = "playerwin">"Player: </string>
+    <string name = "Computerwin">"Computer: </string>
+    <string name= "playerchoice">Player\'s Weapon: </string>
+    <string name = "compchoice">Computer\'s Weapon: </string>
+</resources>
